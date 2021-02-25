@@ -6,6 +6,8 @@
 
 <p align="center">Chat about Miasma on the <a href="https://discord.gg/8krYCqr">Discord server</a></p>
 
+&nbsp;
+
 - Multi-texture sampling via GLSL ES
 - Worldspace texture sampling
 - Not optimised, don't get angry about it
