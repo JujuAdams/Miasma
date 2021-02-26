@@ -13,4 +13,5 @@ Notes:
 - Multi-texture sampling via GLSL ES
 - Worldspace texture sampling
 - Not optimised, don't get angry about it
+- Should be cross-platform I think?
 - Twiddle values until it looks good to you
